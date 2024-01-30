@@ -7,23 +7,6 @@
     <input type="text" placeholder="Enter Full Name" name="Namghhhhhhhhhhhhhhhhe" id="Name" required>
     <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
    <br>
     <br>
     <br>
@@ -53,7 +36,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning DevOps</h1>
+   <h1> Thankyou, Happy Learning DevOps and cloud ..stay safe </h1>
 
   
 </form>
